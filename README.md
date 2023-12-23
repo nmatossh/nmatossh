@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-* Currently working for [@nexuspolaris](https://www.nexuspolaris.com.ar) as a Staff SRE
+* Currently working for [@nexuspolaris](https://www.nexuspolaris.com.ar) as a Network Security & Cloud Consulting
 * 
-* I offer consulting hours, you can find a slot [here](https://)
+* I offer consulting hours, you can find a slot [here](https://www.nicolasmato.com.ar/consulting)
 
 ## Skills & Knowledge Areas
 
@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 ## Contact
 
-You can find all of me and resume in my [website](https://www.nicolasmato.com.ar/resume.pdf)
+You can find all of me and resume in my [website](https://www.nicolasmato.com.ar)

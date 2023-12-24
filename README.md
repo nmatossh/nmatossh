@@ -1,7 +1,7 @@
+## About me
+
 * 👋 I'm Nicolás from Argentina and I'm an SR Linux Sysadmin.
-
 * 🔭 I’m currently working on my own project [@nexuspolaris](https://www.nexuspolaris.com.ar) as a Network Security & Cloud Consulting
-
 * I offer consulting hours, you can find a slot [here](https://www.nicolasmato.com.ar/consulting)
 
 ## Skills & Knowledge Areas

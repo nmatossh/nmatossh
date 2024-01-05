@@ -15,4 +15,4 @@
 
 ## Contact
 
-You can find all of me and resume in my [website](https://www.nicolasmato.com.ar/resume.pdf)
+You can find all of me and resume in my [website](https://www.nicolasmato.com.ar)

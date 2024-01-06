@@ -6,7 +6,7 @@
 
 ## Skills & Knowledge Areas
 
-* GNU/Linux & Microsoft System Administrator
+* GNU/Linux & Microsoft System Administration
 * Ethical Hacking Expert
 * Virtual Machines Environment [VMWare, Proxmox]
 * Containers & Cloud Computing
@@ -15,4 +15,4 @@
 
 ## Contact
 
-You can find all of me and resume in my [website](https://www.nicolasmato.com.ar)
+You can find all of me and resume here [nicolasmato.com.ar](https://www.nicolasmato.com.ar)

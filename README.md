@@ -1,7 +1,7 @@
 ## About me
 
 * Hi everyone! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px">
-* I'm Nicolás from Argentina and I'm an SR Linux Enginner.
+* I'm Nicolás from Argentina and I'm an Linux SR Engineer | Infrastructure Security & Cloud.
 * I’m working on my own project [@nexuspolaris](https://www.nexuspolaris.com.ar) as a Network Security & Cloud Consulting
 
 ## Skills & Knowledge Areas

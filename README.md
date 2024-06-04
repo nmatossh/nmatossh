@@ -2,7 +2,7 @@
 
 * Hi everyone! <img src="hi.gif" width="20px">
 * I'm Nicolás from Argentina and I'm an Linux SR Engineer | Infrastructure Security & Cloud.
-* I’m working on my own project [@nexuspolaris](https://www.nexuspolaris.com.ar) as a Network Security & Cloud Consulting
+* I’m working on my own project [@nexuspolaris](https://www.nexuspolaris.com.ar) as a Infrastructure Monitoring & Mantennaice
 
 ## Skills & Knowledge Areas
 
@@ -11,7 +11,7 @@
 * Ethical Hacking Expert
 * Virtual Machines Environment
 * Containers & Cloud Computing
-* Backend Web Developer
+* Backend/Frontend Web Developer
 
 ## Contact
 

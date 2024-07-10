@@ -2,7 +2,7 @@
 
 * Hi everyone! <img src="hi.gif" width="20px">
 * I'm Nicolás from Argentina and I'm an Linux SR Engineer | Infrastructure Security & Cloud.
-* I’m working on my own project [@nexuspolaris](https://www.nexuspolaris.com.ar) as a Infrastructure Monitoring & Mantennaice
+* I’m working on my own project [@hexacore](https://www.hexacore.com.ar) as a Infrastructure Monitoring & Mantennaice
 
 ## Skills & Knowledge Areas
 

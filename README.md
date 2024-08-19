@@ -11,7 +11,7 @@
 * Ethical Hacking Expert
 * Virtual Machines Environment
 * Containers & Cloud Computing
-* Backend/Frontend Web Developer
+* Backend Developer
 
 ## Contact
 

@@ -1,4 +1,4 @@
-## About me
+[## About me
 
 * Hi everyone! <img src="hi.gif" width="20px">
 * I'm Nicolás from Argentina and I'm an Linux SR Engineer | Infrastructure Security & Cloud.
@@ -15,4 +15,4 @@
 
 ## Contact
 
-You can look at me in <a href="https://www.nicolasmato.com.ar" style="text-decoration:none;">nicolasmato.com.ar</a>
+You can look at me in <a href="https://www.nicolasmato.com.ar"nicolasmato.com.ar</a>

@@ -1,6 +1,6 @@
 ## 👾 Acerca de mí 
 
-* ¡Hola a todos! <img src="hi.gif" ancho="20px">
+* ¡Hola a todos! <img src="hi.gif" width="20px">
 * Soy Nicolás, de Bs. As, Argentina. Soy Linux Sysadmin SRE | Seguridad de infraestructura & Cloud.
 * Estoy trabajando en mi propio proyecto [@hexacore](https://www.hexacore.com.ar) en Monitoreo y Mantenimiento de Infraestructura IT.
 

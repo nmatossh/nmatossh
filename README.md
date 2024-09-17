@@ -13,7 +13,7 @@
 * Containers y Cloud Computing
 * Desarrollador de Backend
 
-## Contacto 
+## 📩 Contacto 
 
 Podés contactarme en [nicolasmato.com.ar](https://www.nicolasmato.com.ar)
 
@@ -32,6 +32,6 @@ Podés contactarme en [nicolasmato.com.ar](https://www.nicolasmato.com.ar)
 * Containers & Cloud Computing
 * Backend Developer
 
-## Contact 
+## 📩 Contact 
 
 You can contact me here [nicolasmato.com.ar](https://www.nicolasmato.com.ar) 

@@ -11,7 +11,7 @@
 * Ethical Hacking
 * Entorno de Máquinas Virtuales
 * Containers y Cloud Computing
-* Desarrollador de Backend
+* Desarrollador Backend
 
 ## 📩 Contacto 
 

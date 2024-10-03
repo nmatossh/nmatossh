@@ -1,22 +1,3 @@
-## 👾 Acerca de mí 
-
-* ¡Hola a todos! <img src="hi.gif" width="20px">
-* Soy Nicolás, de Bs. As, Argentina. Linux Sysadmin SRE | Seguridad de infraestructura & Cloud.
-* Estoy trabajando en mi propio proyecto [hexacore.com.ar](https://www.hexacore.com.ar) en monitoreo, análisis y seguridad de Infraestructura IT.
-
-## 🥷🏼 Habilidades y conocimientos
-
-* GNU/Linux Sysadmin
-* Microsoft Windows Sysadmin
-* Ethical Hacking
-* Entorno de Máquinas Virtuales
-* Containers y Cloud Computing
-* Desarrollador Backend
-
-## 📩 Contacto 
-
-Podés contactarme en [nicolasmato.com.ar](https://www.nicolasmato.com.ar)
-
 ## 👾 About me 
 
 * Hi everyone! <img src="hi.gif" width="20px">

@@ -19,4 +19,4 @@ You can contact me here [nicolasmato.com.ar](https://www.nicolasmato.com.ar)
 
 <h2>Github stats:</h2> 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=nmatossh&theme=material-palenight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nmatossh&theme=transparent&hide_border=true&card_width=840&card_height=220)](https://git.io/streak-stats)

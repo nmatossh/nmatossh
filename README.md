@@ -2,7 +2,7 @@
 
 * Hi everyone! <img src="hi.gif" width="20px">
 * I'm Nicolás from Argentina and I'm work in the financial sector as a Linux Sysadmin & Infrastructure Security.
-* I’m working on my own project [hexacore.com.ar](https://www.hexacore.com.ar) as a IT Infrastructure Support.
+* At the same time, i’m working on my own project [hexacore.com.ar](https://www.hexacore.com.ar) as a IT Infrastructure Support.
 
 ## 🥷🏼 Skills & Knowledge Areas 
 

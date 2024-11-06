@@ -6,8 +6,8 @@
 
 ## 🥷🏼 Skills & Knowledge Areas 
 
-* Linux Sysadmin
-* Microsoft SysAdmin
+* Linux/Unix Sysadmin
+* Microsoft Windows SysAdmin
 * Ethical Hacking Expert
 * Virtual Machines Environment
 * Containers & Cloud Computing

@@ -17,8 +17,4 @@
 
 You can contact me here [nicolasmato.com.ar](https://www.nicolasmato.com.ar) 
 
-## 📊 Github stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nmatossh&theme=transparent&hide_border=true&card_width=600&card_height=220)](https://github.com/nmatossh)
-
 

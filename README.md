@@ -1,3 +1,22 @@
+## 👾 Sobre mí
+
+* ¡Hola a todos! <img src="hi.gif" width="20px">
+* Soy Nicolás de Argentina y trabajo en el sector financiero como Ingeniero Linux SRE & Operaciones.
+* Al mismo tiempo, sigo trabajando en mi propio proyecto [Hexacore](https://www.hexacore.com.ar) como Auditor e IT Support en Infraestructura.
+
+## 🛹 Habilidades & Áreas de Conocimiento
+
+* Administración de Sistemas Linux/Unix
+* Administración de Sistemas Microsoft Windows
+* Experto en Hacking Ético
+* Entornos de Máquinas Virtuales
+* Contenedores & Cloud Computing
+* Desarrollador Backend
+
+## 📩 Contacto
+
+Podés contactarme aquí [nicolasmato.com.ar](https://www.nicolasmato.com.ar)
+
 ## 👾 About me 
 
 * Hi everyone! <img src="hi.gif" width="20px">

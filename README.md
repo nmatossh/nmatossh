@@ -1,6 +1,5 @@
 ## 👾 Sobre mí
 
-* ¡Hola a todos! <img src="hi.gif" width="20px">
 * Soy Nicolás, de Argentina. Trabajo en el sector financiero como SR Linux Engineer, Server Monitoring & Operations.
 * Al mismo tiempo, sigo trabajando en mi propio proyecto [Hexacore](https://www.hexacore.com.ar) como Auditor & Soporte de Infraestructura IT.
 
@@ -19,7 +18,6 @@ Podés contactarme aquí [nicolasmato.com.ar](https://www.nicolasmato.com.ar)
 
 ## 👾 About me 
 
-* Hi everyone! <img src="hi.gif" width="20px">
 * I'm Nicolás from Argentina and I'm work in the financial sector as a SR Linux Engineer, Server Monitoring & Operations.
 * At the same time, i stay working on my own project [Hexacore](https://www.hexacore.com.ar) as a IT Infrastructure Audit & Support.
 

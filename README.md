@@ -5,8 +5,7 @@
 
 ## 🛹 Habilidades & Áreas de Conocimiento
 
-* Administración de Sistemas Linux/Unix
-* Administración de Sistemas Microsoft Windows
+* Unix/Linux Sysadmin
 * Experto en Hacking Ético
 * Entornos de Máquinas Virtuales
 * Contenedores & Cloud Computing
@@ -23,8 +22,7 @@ Podés contactarme aquí [nicolasmato.com.ar](https://www.nicolasmato.com.ar)
 
 ## 🛹 Skills & Knowledge Areas 
 
-* Linux/Unix Sysadmin
-* Microsoft Windows SysAdmin
+* Unix/Linux Sysadmin
 * Ethical Hacking Expert
 * Virtual Machines Environment
 * Containers & Cloud Computing
